@@ -1,28 +1,30 @@
-# Merhaba, Ben Muhammed! 👋
+# Hello, I'm Muhammed! 👋
 
-Yazılım geliştirme yolculuğunda kendimi geliştiren bir mühendis adayıyım. Şu anda okulda ve projelerimde aktif olarak **Web Geliştirme**, **Görsel Programlama** ve temel mühendislik dilleri üzerine yoğunlaşıyorum.
+I am an aspiring engineer on a journey of continuous improvement in software development. Currently, I am actively focusing on **Web Development**, **GUI Programming**, and fundamental engineering languages through my academic studies and personal projects.
 
-### 🔭 Neler Yapıyorum?
+### 🔭 What I'm Working On
 
-- 🖥️ **Görsel Programlama:** C++ ve Qt Creator kullanarak masaüstü uygulamaları ve oyunlar geliştiriyorum.
-- 🌐 **Web Geliştirme:** Modern web teknolojileri ve arayüz tasarımları üzerine çalışıyorum.
-- ⚙️ **Backend & Algoritma:** Java ve C dilleri ile sağlam bir algoritma temeli oluşturuyorum.
+- 🖥️ **Visual Programming:** I develop desktop applications and games using **C++** and **Qt Creator**.
+- 🌐 **Web Development:** I work on modern web technologies and UI designs.
+- ⚙️ **Backend & Algorithms:** I am building a solid foundation in algorithms and data structures using **Java** and **C**.
 
-### 🛠 Yeteneklerim ve Araçlar
+### 🛠 Skills & Tools
 
 <div align="left">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/>&nbsp;
+  <br><br>
 
-  <img src="https://img.shields.io/badge/Qt_Creator-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="50" height="50"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="50" height="50"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>&nbsp;
+  <br><br>
+
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="50" height="50"/>&nbsp;
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="50" height="50"/>
 </div>
 
-### 📫 İletişim
+### 📫 Connect with Me
 
-[<img src="https://img.shields.io/badge/LinkedIn-Bağlantı_Kur-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/muhammed-mustafa-uysal-9631302b7)
+[<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/muhammed-mustafa-uysal-9631302b7)
